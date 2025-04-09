@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing the 3DGS (3D Gaussian Splatting) SLAM, includinig image sensor, event camera, and LiDAR,
+This repository contains a curated list of resources addressing the 3DGS (3D Gaussian Splatting) SLAM, includinig image sensor, event camera, and LiDAR, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM/issues/new)**. 
 

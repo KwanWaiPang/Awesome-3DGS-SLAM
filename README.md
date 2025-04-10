@@ -16,8 +16,8 @@ Feel free to share this list with others!
 
 # Overview
 - [Image-based 3DGS](#Image-based-3DGS)
-- [Event-based 3DGS](#Event-based-3DGS)
 - [LiDAR-based 3DGS](#LiDAR-based-3DGS)
+- [Event-based 3DGS](#Event-based-3DGS)
 
 
 <!-- |---|`arXiv`|---|---|---| -->

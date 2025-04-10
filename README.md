@@ -21,7 +21,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments](https://arxiv.org/pdf/2503.03373)|---|---|
+|2025|`arXiv`|[Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments](https://arxiv.org/pdf/2503.03373)|[![Github stars](https://img.shields.io/github/stars/JD-hust/gs-dso.svg)](https://github.com/JD-hust/gs-dso)|---|
 |2025|`CVPR`|[MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM](https://arxiv.org/pdf/2411.16785)|[![Github stars](https://img.shields.io/github/stars/VladimirYugay/MAGiC-SLAM.svg)](https://github.com/VladimirYugay/MAGiC-SLAM)|[website](https://vladimiryugay.github.io/magic_slam/)|
 |2025|`arXiv`|[4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2503.16710)|[![Github stars](https://img.shields.io/github/stars/yanyan-li/4DGS-SLAM.svg)](https://github.com/yanyan-li/4DGS-SLAM)|[website](https://yanyan-li.github.io/project/gs/4dgsslam.html)| 
 |2025|`arXiv`|[GI-SLAM: Gaussian-Inertial SLAM](https://arxiv.org/pdf/2503.18275)|---|---| 

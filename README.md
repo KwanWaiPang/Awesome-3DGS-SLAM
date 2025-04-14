@@ -100,7 +100,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`3DV`|[E-3DGS: Event-based Novel View Rendering of Large-scale Scenes Using 3D Gaussian Splatting](https://arxiv.org/pdf/2502.10827)|[![Github stars](https://img.shields.io/github/stars/sohaib023/E-3DGS.svg)](https://github.com/sohaib023/E-3DGS)|[website](https://4dqv.mpi-inf.mpg.de/E3DGS/)|
+|2025|`3DV`|[E-3DGS: Event-based Novel View Rendering of Large-scale Scenes Using 3D Gaussian Splatting](https://arxiv.org/pdf/2502.10827)|[![Github stars](https://img.shields.io/github/stars/sohaib023/E-3DGS.svg)](https://github.com/sohaib023/E-3DGS)|[website](https://4dqv.mpi-inf.mpg.de/E3DGS/)<br>[test](https://kwanwaipang.github.io/E-3DGS/)|
 |2024|`arXiv`|[EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering](https://arxiv.org/pdf/2412.07293)|---|---|
 |2024|`Asia Pacific Signal and Information Processing Association Annual Summit and Conference`|[Ev3DGS: Event Enhanced 3D Gaussian Splatting from Blurry Images](http://www.apsipa2024.org/files/papers/253.pdf)|[![Github stars](https://img.shields.io/github/stars/npucvr/Ev3DGS.svg)](https://github.com/npucvr/Ev3DGS)|---|
 |2024|`IEEE International Conference on Image Processing`|[E2gs: Event enhanced gaussian splatting](https://arxiv.org/pdf/2406.14978)|[![Github stars](https://img.shields.io/github/stars/deguchihiroyuki/E2GS.svg)](https://github.com/deguchihiroyuki/E2GS)|---|

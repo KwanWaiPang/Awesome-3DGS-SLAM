@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting](https://arxiv.org/pdf/2504.09062)|[![Github stars](https://img.shields.io/github/stars/zhijieshen-bjtu/TPGS.svg)](https://github.com/zhijieshen-bjtu/TPGS)|---|
 |2025|`RAL`|[SDD-SLAM: Semantic-Driven Dynamic SLAM with Gaussian Splatting](https://ieeexplore.ieee.org/abstract/document/10966164)|---|---| 
 |2025|`IEEE Sensors Journal`|[Dynamic SLAM with 3D Gaussian Splatting Supporting Monocular Sensing](https://ieeexplore.ieee.org/abstract/document/10970383/)|---|---|
 |2025|`CVPR`|[ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://arxiv.org/pdf/2504.13167)|[![Github stars](https://img.shields.io/github/stars/eth-ait/ODHSR.svg)](https://github.com/eth-ait/ODHSR)|[website](https://eth-ait.github.io/ODHSR/)|

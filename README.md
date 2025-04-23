@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IEEE Sensors Journal`|[Dynamic SLAM with 3D Gaussian Splatting Supporting Monocular Sensing](https://ieeexplore.ieee.org/abstract/document/10970383/)|---|---|
 |2025|`CVPR`|[ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://arxiv.org/pdf/2504.13167)|[![Github stars](https://img.shields.io/github/stars/eth-ait/ODHSR.svg)](https://github.com/eth-ait/ODHSR)|[website](https://eth-ait.github.io/ODHSR/)|
 |2025|`arXiv`|[SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM](https://arxiv.org/pdf/2504.13713)|[![Github stars](https://img.shields.io/github/stars/samuel-cerezo/SLAM-Render.svg)](https://github.com/samuel-cerezo/SLAM-Render)|[website](https://samuel-cerezo.github.io/SLAM&Render)<br>dataset|
 |2025|`arXiv`|[Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments](https://arxiv.org/pdf/2503.03373)|[![Github stars](https://img.shields.io/github/stars/JD-hust/gs-dso.svg)](https://github.com/JD-hust/gs-dso)|---|

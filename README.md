@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Enhancing Gaussian Splatting SLAM with Feature-based Tracking](https://lamor.fer.hr/images/50050805/gsslam.pdf)|---|---| 
 |2025|`arXiv`|[ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration](https://arxiv.org/pdf/2504.16545)|---|---|
 |2025|`arXiv`|[You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting](https://arxiv.org/pdf/2504.09062)|[![Github stars](https://img.shields.io/github/stars/zhijieshen-bjtu/TPGS.svg)](https://github.com/zhijieshen-bjtu/TPGS)|---|
 |2025|`RAL`|[SDD-SLAM: Semantic-Driven Dynamic SLAM with Gaussian Splatting](https://ieeexplore.ieee.org/abstract/document/10966164)|---|---| 

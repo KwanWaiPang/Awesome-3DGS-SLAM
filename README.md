@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting](https://arxiv.org/pdf/2504.20379)|---|---|
 |2025|`arXiv`|[Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views](https://arxiv.org/pdf/2504.20378)|[![Github stars](https://img.shields.io/github/stars/Wuuu3511/Sparse2DGS.svg)](https://github.com/Wuuu3511/Sparse2DGS)|---| 
 |2025|`ICLR`|[MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors](https://openreview.net/pdf?id=2prShxdLkX)|[![Github stars](https://img.shields.io/github/stars/MobiusLqm/MoDGS.svg)](https://github.com/MobiusLqm/MoDGS)|[website](https://modgs.github.io/)| 
 |2025|`CVPR`|[SmallGS: Gaussian Splatting Based Camera Pose Estimation for Small-Baseline Videos](https://arxiv.org/pdf/2504.17810)|---|[website](https://yuxinyao620.github.io/SmallGS/)<br>MonST3R+3DGS| 

@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels](https://arxiv.org/pdf/2505.01934)|[![Github stars](https://img.shields.io/github/stars/gaus-slam/gaus-slam.svg)](https://github.com/gaus-slam/gaus-slam)|[website](https://gaus-slam.github.io/)| 
 |2025|`SIGGRAPH`|[Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting](https://arxiv.org/pdf/2505.01235)|---|[website](https://bbangsik13.github.io/OR2/)|
 |2025|`RSS`|[GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction](https://arxiv.org/pdf/2504.21067)|[![Github stars](https://img.shields.io/github/stars/JohannaXie/GauSS-MI.svg)](https://github.com/JohannaXie/GauSS-MI)|---|
 |2025|`arXiv`|[GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field](https://arxiv.org/pdf/2504.19409)|---|---|

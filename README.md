@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/pdf/2503.11979)|[![Github stars](https://img.shields.io/github/stars/BlarkLee/DynaGSLAM_official.svg)](https://github.com/BlarkLee/DynaGSLAM_official)|[website](https://blarklee.github.io/dynagslam/)| 
 |2025|`arXiv`|[Large-Scale Gaussian Splatting SLAM](https://arxiv.org/pdf/2505.09915)|---|[website](https://lsgsslam.github.io/)| 
 |2025|`IEEE-SJ`|[DSOSplat: Monocular 3D Gaussian SLAM with Direct Tracking](https://ieeexplore.ieee.org/abstract/document/10994228/)|---|---|
 |2025|`arXiv`|[GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels](https://arxiv.org/pdf/2505.01934)|[![Github stars](https://img.shields.io/github/stars/gaus-slam/gaus-slam.svg)](https://github.com/gaus-slam/gaus-slam)|[website](https://gaus-slam.github.io/)| 

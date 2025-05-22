@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation](https://arxiv.org/pdf/2505.13215)|[![Github stars](https://img.shields.io/github/stars/ohsngjun/3D-4DGS.svg)](https://github.com/ohsngjun/3D-4DGS)|[website](https://ohsngjun.github.io/3D-4DGS/)| 
 |2025|`arXiv`|[STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes](https://arxiv.org/pdf/2501.00602)| [![Github stars](https://img.shields.io/github/stars/NVlabs/GaussianSTORM.svg)](https://github.com/NVlabs/GaussianSTORM)|[website](https://jiawei-yang.github.io/STORM/)|
 |2025|`SIGGRAPH `|[Monocular Online Reconstruction with Enhanced Detail Preservation](https://arxiv.org/pdf/2505.07887)|---|[website](https://poiw.github.io/MODP/)| 
 |2025|`CVPR`|[Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields](https://arxiv.org/pdf/2505.05356)|[![Github stars](https://img.shields.io/github/stars/brownvc/gftorf.svg)](https://github.com/brownvc/gftorf)|[website](https://visual.cs.brown.edu/projects/gftorf-webpage/)| 

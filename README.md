@@ -116,6 +116,9 @@ Feel free to share this list with others!
 |2024|`CoRL`|[Event3dgs: Event-based 3d gaussian splatting for fast egomotion](https://arxiv.org/pdf/2406.02972)|---|[website](https://tyxiong23.github.io/event3dgs)|
 |2024|`ICML`|[Evggs: A collaborative learning framework for event-based generalizable gaussian splatting](https://arxiv.org/pdf/2405.14959)|[![Github stars](https://img.shields.io/github/stars/Mercerai/EvGGS.svg)](https://github.com/Mercerai/EvGGS)|---| 
 
+
+
+
 ## Other Resources
 * [MrNeRF's Awesome 3DGS](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
 * [convert 3D meshes into 3DGS](https://github.com/electronicarts/mesh2splat)

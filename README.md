@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians](https://muskie82.github.io/4dtam/paper/4dtam_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/muskie82/4dtam.svg)](https://github.com/muskie82/4dtam)|[website](https://muskie82.github.io/4dtam/)| 
 |2025|`arXiv`|[UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments](https://arxiv.org/pdf/2505.22335)|---|[website](https://aczheng-cai.github.io/up_slam.github.io/)|
 |2025|`arXiv`|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/pdf/2503.11979)|[![Github stars](https://img.shields.io/github/stars/BlarkLee/DynaGSLAM_official.svg)](https://github.com/BlarkLee/DynaGSLAM_official)|[website](https://blarklee.github.io/dynagslam/)| 
 |2025|`arXiv`|[Large-Scale Gaussian Splatting SLAM](https://arxiv.org/pdf/2505.09915)|---|[website](https://lsgsslam.github.io/)| 

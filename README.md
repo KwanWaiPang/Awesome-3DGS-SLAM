@@ -26,6 +26,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians](https://arxiv.org/pdf/2506.02741)|---|[website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)|
 |2025|`arXiv`|[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/pdf/2505.18992)|[![Github stars](https://img.shields.io/github/stars/dtc111111/vpgs-slam.svg)](https://github.com/dtc111111/vpgs-slam)|---| 
 |2025|`arXiv`|[ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting](https://arxiv.org/pdf/2505.19420)|---|---|
 |2025|`arXiv`|[LGSBA: Local Gaussian Splatting Bundle Adjustment for Optimizing 3DGS Rendering Quality](https://www.preprints.org/frontend/manuscript/ddecffbfbb0306ab43042be32552275f/download_pub)|[![Github stars](https://img.shields.io/github/stars/wla-98/worse-pose-but-better-3DGS.svg)](https://github.com/wla-98/worse-pose-but-better-3DGS)|---| 

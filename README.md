@@ -110,6 +110,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting Supplementary Material](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DiET-GS_Diffusion_Prior_and_Event_Stream-Assisted_Motion_Deblurring_3D_Gaussian_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/DiET-GS/DiET-GS.svg)](https://github.com/DiET-GS/DiET-GS)|[website](https://diet-gs.github.io/)|
 |2025|`arXiv`|[GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation](https://arxiv.org/pdf/2505.15287)|[![Github stars](https://img.shields.io/github/stars/PKU-YuanGroup/GS2E.svg)](https://github.com/PKU-YuanGroup/GS2E) |[website](https://intothemild.github.io/GS2E.github.io/)|
 |2025|`arXiv`|[EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting](https://arxiv.org/pdf/2504.10012)|---|---|
 |2025|`AAAI`|[SpikeGS: Reconstruct 3D Scene Captured by a Fast-Moving Bio-Inspired Camera](https://ojs.aaai.org/index.php/AAAI/article/view/32340/34495)|[![Github stars](https://img.shields.io/github/stars/yijiaguo02/SpikeGS.svg)](https://github.com/yijiaguo02/SpikeGS)|[website](https://spikegs.github.io/)|
@@ -144,7 +145,6 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`CVPR`|[DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting Supplementary Material](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DiET-GS_Diffusion_Prior_and_Event_Stream-Assisted_Motion_Deblurring_3D_Gaussian_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/DiET-GS/DiET-GS.svg)](https://github.com/DiET-GS/DiET-GS)|[website](https://diet-gs.github.io/)|
 |2025|`arXiv`|[Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/pdf/2506.02774)|---|[website](https://voyager-web.netlify.app/)|
 |2025|`arXiv`|[R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections](https://arxiv.org/pdf/2505.15294)|---|---|
 |2025|`arXiv`|[Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos](https://arxiv.org/pdf/2505.13440)|[![Github stars](https://img.shields.io/github/stars/Dwawayu/Pensieve.svg)](https://github.com/Dwawayu/Pensieve)|---|

@@ -146,6 +146,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2506.05327)|[![Github stars](https://img.shields.io/github/stars/aim-uofa/PM-Loss.svg)](https://github.com/aim-uofa/PM-Loss)|[website](https://aim-uofa.github.io/PMLoss/)|
 |2025|`arXiv`|[Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/pdf/2506.02774)|---|[website](https://voyager-web.netlify.app/)|
 |2025|`arXiv`|[R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections](https://arxiv.org/pdf/2505.15294)|---|---|
 |2025|`arXiv`|[Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos](https://arxiv.org/pdf/2505.13440)|[![Github stars](https://img.shields.io/github/stars/Dwawayu/Pensieve.svg)](https://github.com/Dwawayu/Pensieve)|---|

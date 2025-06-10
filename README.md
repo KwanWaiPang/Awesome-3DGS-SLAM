@@ -140,6 +140,7 @@ Feel free to share this list with others!
 * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/)
 * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/)
 * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
+* A geometry-shader-based, global CUDA sorted high-performance 3D Gaussian Splatting rasterizer. Can achieve a 5-10x speedup in rendering compared to the vanialla diff-gaussian-rasterization.[fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization)
 * Other related papers:
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->

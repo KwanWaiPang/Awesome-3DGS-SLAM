@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[GS4: Generalizable Sparse Splatting Semantic SLAM](https://arxiv.org/pdf/2506.06517)|---|[website](https://mingqij.github.io/projects/gs4/)|
 |2025|`International Conference on Autonomous Agents and Multiagent Systems`|[OGS-SLAM: Hybrid ORB-Gaussian Splatting SLAM](https://dl.acm.org/doi/abs/10.5555/3709347.3743762)|[![Github stars](https://img.shields.io/github/stars/realXiaohan/OGS-SLAM.svg)](https://github.com/realXiaohan/OGS-SLAM)|---|
 |2025|`arXiv`|[Globally Consistent RGB-D SLAM with 2D Gaussian Splatting](https://arxiv.org/pdf/2506.00970)|[![Github stars](https://img.shields.io/github/stars/PRBonn/2DGS-SLAM.svg)](https://github.com/PRBonn/2DGS-SLAM)|MASt3R for Loop Closure|
 |2025|`arXiv`|[VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians](https://arxiv.org/pdf/2506.02741)|---|[website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)|

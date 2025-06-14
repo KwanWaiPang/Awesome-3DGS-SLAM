@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`TASE`|[MG-SLAM: Structure Gaussian Splatting SLAM with Manhattan World Hypothesis](https://ieeexplore.ieee.org/abstract/document/11029049)|---|---|
 |2025|`arXiv`|[Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments](https://arxiv.org/pdf/2506.05965)|---|---|
 |2025|`arXiv`|[GS4: Generalizable Sparse Splatting Semantic SLAM](https://arxiv.org/pdf/2506.06517)|---|[website](https://mingqij.github.io/projects/gs4/)|
 |2025|`International Conference on Autonomous Agents and Multiagent Systems`|[OGS-SLAM: Hybrid ORB-Gaussian Splatting SLAM](https://dl.acm.org/doi/abs/10.5555/3709347.3743762)|[![Github stars](https://img.shields.io/github/stars/realXiaohan/OGS-SLAM.svg)](https://github.com/realXiaohan/OGS-SLAM)|---|

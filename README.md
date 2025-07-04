@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[Dense Monocular SLAM in Real-time with Structured Gaussian Representation](https://ieeexplore.ieee.org/abstract/document/11052667/)|---|---|
 |2025|`arXiv`|[TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints](https://arxiv.org/pdf/2506.23207)|---|---| 
 |2025|`arXiv`|[GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM](https://arxiv.org/pdf/2506.18885)|---|---|
 |2025|`IROS`|[SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting](https://arxiv.org/pdf/2503.05174?)|---|---|

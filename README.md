@@ -10,7 +10,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+If you find this repository is useful, a simple star should be the best affirmation. 😊
 
 Feel free to share this list with others!
 
@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[FusionGS-SLAM: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping](https://ieeexplore.ieee.org/abstract/document/11066268/)|---|---|
 |2025|`RAL`|[SAGA-SLAM: Scale-Adaptive 3D Gaussian Splatting for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/11067946/)|---|---|
 |2025|`arXiv`|[GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM](https://arxiv.org/pdf/2506.18885)|---|---|
 |2025|`RAL`|[Dense Monocular SLAM in Real-time with Structured Gaussian Representation](https://ieeexplore.ieee.org/abstract/document/11052667/)|---|---|

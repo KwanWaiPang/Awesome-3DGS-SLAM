@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IEEE Transactions on Artificial Intelligence`|[Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM](https://ieeexplore.ieee.org/abstract/document/11060934)|---|---|
 |2025|`Joint International Conference on Automation-Intelligence-Safety`|[Mono-SLAM: Monocular 3D Gaussian Splatting SLAM with Geometric Loss and Multi-view Consistency](https://ieeexplore.ieee.org/abstract/document/11051648)|---|---|
 |2025|`RAL`|[FusionGS-SLAM: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping](https://ieeexplore.ieee.org/abstract/document/11066268/)|---|---|
 |2025|`RAL`|[SAGA-SLAM: Scale-Adaptive 3D Gaussian Splatting for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/11067946/)|---|---|

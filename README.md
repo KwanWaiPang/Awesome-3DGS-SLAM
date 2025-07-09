@@ -108,6 +108,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting](https://arxiv.org/pdf/2410.17084)|[![Github stars](https://img.shields.io/github/stars/xieyuser/GS-LIVM.svg)](https://github.com/xieyuser/GS-LIVM)|---|
 |2025|`arXiv`|[Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](https://arxiv.org/pdf/2507.04004)|[![Github stars](https://img.shields.io/github/stars/APRIL-ZJU/Gaussian-LIC.svg)](https://github.com/APRIL-ZJU/Gaussian-LIC)|[website](https://xingxingzuo.github.io/gaussian_lic/)|[website](https://xingxingzuo.github.io/gaussian_lic2/)|
 |2025|`arXiv`|[Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping](https://arxiv.org/pdf/2503.17491)|[![Github stars](https://img.shields.io/github/stars/rvp-group/Splat-LOAM.svg)](https://github.com/rvp-group/Splat-LOAM)|---|
 |2025|`arXiv`|[GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping](https://arxiv.org/pdf/2501.08672)|[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/GS-LIVO.svg)](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) |---|

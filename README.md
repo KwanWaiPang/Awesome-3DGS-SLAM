@@ -108,11 +108,12 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](https://arxiv.org/pdf/2507.04004)|---|[website](https://xingxingzuo.github.io/gaussian_lic2/)|
 |2025|`arXiv`|[Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping](https://arxiv.org/pdf/2503.17491)|[![Github stars](https://img.shields.io/github/stars/rvp-group/Splat-LOAM.svg)](https://github.com/rvp-group/Splat-LOAM)|---|
 |2025|`arXiv`|[GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping](https://arxiv.org/pdf/2501.08672)|[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/GS-LIVO.svg)](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) |---|
 |2025|`TIM`|[LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting](https://ieeexplore.ieee.org/abstract/document/10926911)|---|[website](https://kwanwaipang.github.io/LVI-GS/)|
 |2024|`RAL`|[LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](https://arxiv.org/pdf/2411.12185)|---|---|
-|2024|`arXiv`|[Gaussian-lic: Photo-realistic lidar-inertial-camera slam with 3d gaussian splatting](https://arxiv.org/pdf/2404.06926)|[![Github stars](https://img.shields.io/github/stars/APRIL-ZJU/Gaussian-LIC.svg)](https://github.com/APRIL-ZJU/Gaussian-LIC)|[website](https://xingxingzuo.github.io/gaussian_lic/)|
+|2025|`ICRA`|[Gaussian-lic: Photo-realistic lidar-inertial-camera slam with 3d gaussian splatting](https://arxiv.org/pdf/2404.06926)|[![Github stars](https://img.shields.io/github/stars/APRIL-ZJU/Gaussian-LIC.svg)](https://github.com/APRIL-ZJU/Gaussian-LIC)|[website](https://xingxingzuo.github.io/gaussian_lic/)|
 |2024|`ECCV`|[TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Autonomous Driving: Supplementary Materials](https://arxiv.org/pdf/2404.02410)|---|---|
 |2024|`IROS`|[MM-Gaussian: 3D Gaussian-based multi-modal fusion for localization and reconstruction in unbounded scenes](https://arxiv.org/pdf/2404.04026)|---|---|
 |2024|`RAL`|[LIV-GaussMap: LiDAR-inertial-visual fusion for real-time 3D radiance field map rendering](https://arxiv.org/pdf/2401.14857)|[![Github stars](https://img.shields.io/github/stars/sheng00125/LIV-GaussMap.svg)](https://github.com/sheng00125/LIV-GaussMap)|---| 

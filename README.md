@@ -10,7 +10,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repository is useful, a simple star should be the best affirmation. 😊
+If you find this repository useful, a simple star should be the best affirmation. 😊
 
 Feel free to share this list with others!
 
@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/pdf/2507.03737)|[![Github stars](https://img.shields.io/github/stars/3DAgentWorld/S3PO-GS.svg)](https://github.com/3DAgentWorld/S3PO-GS)|[website](https://3dagentworld.github.io/S3PO-GS/)|
 |2025|`IEEE Transactions on Artificial Intelligence`|[Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM](https://ieeexplore.ieee.org/abstract/document/11060934)|---|---|
 |2025|`Joint International Conference on Automation-Intelligence-Safety`|[Mono-SLAM: Monocular 3D Gaussian Splatting SLAM with Geometric Loss and Multi-view Consistency](https://ieeexplore.ieee.org/abstract/document/11051648)|---|---|
 |2025|`RAL`|[FusionGS-SLAM: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping](https://ieeexplore.ieee.org/abstract/document/11066268/)|---|---|

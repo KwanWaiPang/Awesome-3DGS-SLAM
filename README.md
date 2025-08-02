@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM](https://arxiv.org/pdf/2507.18344)|---|---|
 |2025|`ICRA`|[RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes](https://arxiv.org/pdf/2502.15633?)|[![Github stars](https://img.shields.io/github/stars/3DAgentWorld/OpenGS-SLAM.svg)](https://github.com/3DAgentWorld/OpenGS-SLAM)|[website](https://3dagentworld.github.io/opengs-slam/)| 
 |2025|`ICCV`|[Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/pdf/2507.03737)|[![Github stars](https://img.shields.io/github/stars/3DAgentWorld/S3PO-GS.svg)](https://github.com/3DAgentWorld/S3PO-GS)|[website](https://3dagentworld.github.io/S3PO-GS/)|
 |2025|`IEEE Transactions on Artificial Intelligence`|[Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM](https://ieeexplore.ieee.org/abstract/document/11060934)|---|---|

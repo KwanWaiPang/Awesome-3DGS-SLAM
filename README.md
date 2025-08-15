@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[S3LAM: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping](https://arxiv.org/pdf/2507.20854)|---|---| 
 |2025|`arXiv`|[Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes](https://arxiv.org/pdf/2507.23677)|---|---|
 |2025|`arXiv`|[G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM](https://arxiv.org/pdf/2507.18344)|---|---|
 |2025|`ICRA`|[RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes](https://arxiv.org/pdf/2502.15633?)|[![Github stars](https://img.shields.io/github/stars/3DAgentWorld/OpenGS-SLAM.svg)](https://github.com/3DAgentWorld/OpenGS-SLAM)|[website](https://3dagentworld.github.io/opengs-slam/)| 

@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://arxiv.org/pdf/2501.05242)|[![Github stars](https://img.shields.io/github/stars/leaner-forever/SEGS-SLAM.svg)](https://github.com/leaner-forever/SEGS-SLAM)|[website](https://segs-slam.github.io/)|
 |2025|`arXiv`|[MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting](https://arxiv.org/pdf/2409.13055v2)|---|---|
 |2025|`arXiv`|[Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes](https://arxiv.org/pdf/2507.23677)|---|---|
 |2025|`arXiv`|[S3LAM: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping](https://arxiv.org/pdf/2507.20854)|---|---| 

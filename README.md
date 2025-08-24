@@ -134,6 +134,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAl`|[EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events](https://arxiv.org/pdf/2508.07003)|[![Github stars](https://img.shields.io/github/stars/Chensiyu00/EGS-SLAM.svg)](https://github.com/Chensiyu00/EGS-SLAM)|---|
 |2025|`arXiv`|[E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras](https://arxiv.org/pdf/2508.09912?)|---|---|
 |2025|`arXiv`|[EDyGS: Event Enhanced Dynamic 3D Radiance Fields from Blurry Monocular Video](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1781.pdf)|[![Github stars](https://img.shields.io/github/stars/zju-bmi-lab/EDyGS.svg)](https://github.com/zju-bmi-lab/EDyGS)|---|
 |2025|`CVPR`|[DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting Supplementary Material](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DiET-GS_Diffusion_Prior_and_Event_Stream-Assisted_Motion_Deblurring_3D_Gaussian_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/DiET-GS/DiET-GS.svg)](https://github.com/DiET-GS/DiET-GS)|[website](https://diet-gs.github.io/)|

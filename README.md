@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DyPho-SLAM: Real-time Photorealistic SLAM in Dynamic Environments](https://arxiv.org/pdf/2509.00741)|---|---| 
 |2025|`arXiv`|[AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection](https://arxiv.org/pdf/2509.00433)|---|---|
 |2025|`ICRA`|[FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field](https://arxiv.org/pdf/2509.01547)|---|---|
 |2025|`arXiv`|[Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes](https://arxiv.org/pdf/2507.23677)|---|---|

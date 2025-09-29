@@ -139,6 +139,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring](https://arxiv.org/pdf/2509.18898)|---|DUSt3R+Event+3DGS|
 |2025|`RAl`|[EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events](https://arxiv.org/pdf/2508.07003)|[![Github stars](https://img.shields.io/github/stars/Chensiyu00/EGS-SLAM.svg)](https://github.com/Chensiyu00/EGS-SLAM)|---|
 |2025|`arXiv`|[E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras](https://arxiv.org/pdf/2508.09912?)|---|---|
 |2025|`arXiv`|[EDyGS: Event Enhanced Dynamic 3D Radiance Fields from Blurry Monocular Video](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1781.pdf)|[![Github stars](https://img.shields.io/github/stars/zju-bmi-lab/EDyGS.svg)](https://github.com/zju-bmi-lab/EDyGS)|---|

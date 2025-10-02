@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[GaussR-SLAM: Gaussian Robust SLAM in Data Loss and Interference Environments](https://ieeexplore.ieee.org/abstract/document/11164563)|---|---|
 |2025|`arXiv`|[MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](https://arxiv.org/pdf/2509.14191)|---|[website](https://anonymous.4open.science/w/MCGSSLAM-A8F8/)|
 |2025|`arXiv`|[Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps](https://arxiv.org/pdf/2509.11574)|---|---|
 |2025|`arXiv`|[MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM](https://arxiv.org/pdf/2509.13536)|[![Github stars](https://img.shields.io/github/stars/NAIL-HNU/MemGS_SLAM.svg)](https://github.com/NAIL-HNU/MemGS_SLAM) |---|

@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps](https://arxiv.org/pdf/2509.11574)|---|---|
 |2025|`arXiv`|[MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM](https://arxiv.org/pdf/2509.13536)|[![Github stars](https://img.shields.io/github/stars/NAIL-HNU/MemGS_SLAM.svg)](https://github.com/NAIL-HNU/MemGS_SLAM) |---|
 |2025|`arXiv`|[DyPho-SLAM: Real-time Photorealistic SLAM in Dynamic Environments](https://arxiv.org/pdf/2509.00741)|---|---| 
 |2025|`arXiv`|[AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection](https://arxiv.org/pdf/2509.00433)|---|---|

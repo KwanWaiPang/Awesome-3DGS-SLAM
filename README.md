@@ -159,7 +159,7 @@ Feel free to share this list with others!
 |2024|`Asia Pacific Signal and Information Processing Association Annual Summit and Conference`|[Ev3DGS: Event Enhanced 3D Gaussian Splatting from Blurry Images](http://www.apsipa2024.org/files/papers/253.pdf)|[![Github stars](https://img.shields.io/github/stars/npucvr/Ev3DGS.svg)](https://github.com/npucvr/Ev3DGS)|---|
 |2024|`IEEE International Conference on Image Processing`|[E2gs: Event enhanced gaussian splatting](https://arxiv.org/pdf/2406.14978)|[![Github stars](https://img.shields.io/github/stars/deguchihiroyuki/E2GS.svg)](https://github.com/deguchihiroyuki/E2GS)|---|
 |2024|`arXiv`|[Evagaussians: Event stream assisted gaussian splatting from blurry images](https://arxiv.org/pdf/2405.20224)|[![Github stars](https://img.shields.io/github/stars/PKU-YuanGroup/EvaGaussians.svg)](https://github.com/PKU-YuanGroup/EvaGaussians)|[website](https://www.falcary.com/EvaGaussians/)| 
-|2024|`CoRL`|[Event3dgs: Event-based 3d gaussian splatting for fast egomotion](https://arxiv.org/pdf/2406.02972)|---|[website](https://tyxiong23.github.io/event3dgs)|
+|2024|`CoRL`|[Event3dgs: Event-based 3d gaussian splatting for fast egomotion](https://arxiv.org/pdf/2406.02972)|[![Github stars](https://img.shields.io/github/stars/jayhsu0627/Event3DGS.svg)](https://github.com/jayhsu0627/Event3DGS)|[website](https://tyxiong23.github.io/event3dgs)|
 |2024|`ICML`|[Evggs: A collaborative learning framework for event-based generalizable gaussian splatting](https://arxiv.org/pdf/2405.14959)|[![Github stars](https://img.shields.io/github/stars/Mercerai/EvGGS.svg)](https://github.com/Mercerai/EvGGS)|---| 
 
 

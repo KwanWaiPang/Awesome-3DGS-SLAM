@@ -142,6 +142,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`NIPS`|[Spike4DGS: Towards High-Speed Dynamic Scene Rendering with 4D Gaussian Splatting via a Spike Camera Array](https://openreview.net/pdf?id=V5efEA8nIr)|---|---|
 |2025|`Expert Systems with Applications`|[E2D-GS: Event-Enhanced Deblurring Gaussian Splatting](https://www.sciencedirect.com/science/article/abs/pii/S0957417425034177)|---|---|
 |2025|`arXiv`|[Event-guided 3D Gaussian Splatting for Dynamic Human and Scene Reconstruction](https://arxiv.org/pdf/2509.18566)|---|---|
 |2025|`arXiv`|[DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring](https://arxiv.org/pdf/2509.18898)|---|DUSt3R+Event+3DGS|

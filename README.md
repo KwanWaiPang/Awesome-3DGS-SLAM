@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[Segs-slam: Structure-enhanced 3d gaussian splatting slam with appearance embedding](https://openaccess.thecvf.com/content/ICCV2025/papers/Wen_SEGS-SLAM_Structure-enhanced_3D_Gaussian_Splatting_SLAM_with_Appearance_Embedding_ICCV_2025_paper.pdf)|---|---|
 |2025|`arXiv`|[RoGER-SLAM: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience](https://arxiv.org/pdf/2510.22600)|---|---|
 |2025|`RAL`|[GaussR-SLAM: Gaussian Robust SLAM in Data Loss and Interference Environments](https://ieeexplore.ieee.org/abstract/document/11164563)|---|---|
 |2025|`arXiv`|[MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](https://arxiv.org/pdf/2509.14191)|---|[website](https://anonymous.4open.science/w/MCGSSLAM-A8F8/)|

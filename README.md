@@ -124,6 +124,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](https://arxiv.org/pdf/2510.26358)|[![Github stars](https://img.shields.io/github/stars/AIRLab-POLIMI/agri-gs-slam.svg)](https://github.com/AIRLab-POLIMI/agri-gs-slam)|---|
 |2025|`ICCV`|[GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting](https://arxiv.org/pdf/2410.17084)|[![Github stars](https://img.shields.io/github/stars/xieyuser/GS-LIVM.svg)](https://github.com/xieyuser/GS-LIVM)|---|
 |2025|`arXiv`|[Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](https://arxiv.org/pdf/2507.04004)|[![Github stars](https://img.shields.io/github/stars/APRIL-ZJU/Gaussian-LIC.svg)](https://github.com/APRIL-ZJU/Gaussian-LIC)|[website](https://xingxingzuo.github.io/gaussian_lic/)|[website](https://xingxingzuo.github.io/gaussian_lic2/)|
 |2025|`arXiv`|[Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping](https://arxiv.org/pdf/2503.17491)|[![Github stars](https://img.shields.io/github/stars/rvp-group/Splat-LOAM.svg)](https://github.com/rvp-group/Splat-LOAM)|[Test](https://kwanwaipang.github.io/Splat-LOAM/)|

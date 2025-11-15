@@ -90,7 +90,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2504.04844)|---|---|
 |2025|`arXiv`|[Monogs++: Fast and accurate monocular rgb gaussian slam](https://arxiv.org/pdf/2504.02437)|---|---|
 |2025|`RAL`|[RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting](https://arxiv.org/pdf/2412.01217)|[![Github stars](https://img.shields.io/github/stars/zhenzhongcao/RGBDS-SLAM.svg)](https://github.com/zhenzhongcao/RGBDS-SLAM)|---|
-|2025|`arXiv`|[VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes](https://arxiv.org/pdf/2501.08286)|---|[website](https://vings-mono.github.io/)|
+|2025|`TRO`|[VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes](https://arxiv.org/pdf/2501.08286)|[![Github stars](https://img.shields.io/github/stars/Fudan-MAGIC-Lab/VINGS-Mono.svg)](https://github.com/Fudan-MAGIC-Lab/VINGS-Mono)|[website](https://vings-mono.github.io/)|
 |2025|`CVPR`|[WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/pdf/2504.03886)|[![Github stars](https://img.shields.io/github/stars/GradientSpaces/WildGS-SLAM.svg)](https://github.com/GradientSpaces/WildGS-SLAM)|[website](https://wildgs-slam.github.io/)|
 |2025|`arXiv`|[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](https://arxiv.org/pdf/2502.03228)|---|---|
 |2025|`arXiv`|[GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting](https://arxiv.org/pdf/2502.10975)|---|---|

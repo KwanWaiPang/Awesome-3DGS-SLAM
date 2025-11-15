@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`TRO`|[OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics](https://arxiv.org/pdf/2509.07500)|[![Github stars](https://img.shields.io/github/stars/BIT-DYN/omnimap.svg)](https://github.com/BIT-DYN/omnimap)|[website](https://omni-map.github.io/)|
 |2025|`ICCV`|[DyGS-SLAM: Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_DyGS-SLAM_Real-Time_Accurate_Localization_and_Gaussian_Reconstruction_for_Dynamic_Scenes_ICCV_2025_paper.pdf)|---|---|
 |2025|`ICCV`|[Segs-slam: Structure-enhanced 3d gaussian splatting slam with appearance embedding](https://openaccess.thecvf.com/content/ICCV2025/papers/Wen_SEGS-SLAM_Structure-enhanced_3D_Gaussian_Splatting_SLAM_with_Appearance_Embedding_ICCV_2025_paper.pdf)|---|---|
 |2025|`arXiv`|[RoGER-SLAM: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience](https://arxiv.org/pdf/2510.22600)|---|---|

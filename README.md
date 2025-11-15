@@ -128,6 +128,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IROS`|[GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction](https://arxiv.org/pdf/2503.10170?)|[![Github stars](https://img.shields.io/github/stars/hku-mars/GS-SDF.svg)](https://github.com/hku-mars/GS-SDF)|[website](https://jianhengliu.github.io/Projects/GS-SDF/)|
 |2025|`arXiv`|[LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering](https://arxiv.org/pdf/2510.22669)|---|---|
 |2025|`arXiv`|[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](https://arxiv.org/pdf/2510.26358)|[![Github stars](https://img.shields.io/github/stars/AIRLab-POLIMI/agri-gs-slam.svg)](https://github.com/AIRLab-POLIMI/agri-gs-slam)|---|
 |2025|`ICCV`|[GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting](https://arxiv.org/pdf/2410.17084)|[![Github stars](https://img.shields.io/github/stars/xieyuser/GS-LIVM.svg)](https://github.com/xieyuser/GS-LIVM)|---|

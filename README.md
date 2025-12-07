@@ -27,6 +27,8 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`Proceedings of the IEEE International Symposium on High Performance Computer Architecture`|[Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)|---|[website](https://stonesix16.github.io/splatonic/)|
+|2025|`arXiv`|[Robust 3DGS-based SLAM via Adaptive Kernel Smoothing](https://arxiv.org/pdf/2511.23221)|---|---|
 |2025|`arXiv`|[VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM](https://arxiv.org/pdf/2512.02293)|---|[website](https://vigs-slam.github.io/)|
 |2025|`TRO`|[OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics](https://arxiv.org/pdf/2509.07500)|[![Github stars](https://img.shields.io/github/stars/BIT-DYN/omnimap.svg)](https://github.com/BIT-DYN/omnimap)|[website](https://omni-map.github.io/)|
 |2025|`ICCV`|[DyGS-SLAM: Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_DyGS-SLAM_Real-Time_Accurate_Localization_and_Gaussian_Reconstruction_for_Dynamic_Scenes_ICCV_2025_paper.pdf)|---|---|

@@ -28,6 +28,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2026|`Proceedings of the IEEE International Symposium on High Performance Computer Architecture`|[Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)|---|[website](https://stonesix16.github.io/splatonic/)|
+|2025|`arXiv`|[D2GSLAM: 4D Dynamic Gaussian Splatting SLAM](https://arxiv.org/pdf/2512.09411)|---|---|
 |2025|`arXiv`|[LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM](https://arxiv.org/pdf/2511.16144)|[![Github stars](https://img.shields.io/github/stars/Lab-of-AI-and-Robotics/LEGO-SLAM.svg)](https://github.com/Lab-of-AI-and-Robotics/LEGO-SLAM)|[website](https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/)|
 |2025|`arXiv`|[Robust 3DGS-based SLAM via Adaptive Kernel Smoothing](https://arxiv.org/pdf/2511.23221)|---|---|
 |2025|`arXiv`|[VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM](https://arxiv.org/pdf/2512.02293)|---|[website](https://vigs-slam.github.io/)|

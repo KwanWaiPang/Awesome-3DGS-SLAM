@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`Neurocomputing`|[2D Gaussian Primitive SLAM: Real-Time Dense SLAM with 2D Gaussian Primitives](https://www.sciencedirect.com/science/article/pii/S0925231226001190)|---|---|
 |2026|`arXiv`|[FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time](https://arxiv.org/pdf/2601.05738)|---|---|
 |2026|`Pattern Recognition`|[RGD-SLAM: Robust Gaussian Splatting SLAM for Dynamic Environments](https://www.sciencedirect.com/science/article/pii/S0031320326000348)|[![Github stars](https://img.shields.io/github/stars/RGD-SLAM.svg)](https://github.com/00Haocheng/RGD-SLAM)|---|
 |2026|`Proceedings of the IEEE International Symposium on High Performance Computer Architecture`|[Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)|---|[website](https://stonesix16.github.io/splatonic/)|

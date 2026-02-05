@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing the 3DGS (3D Gaussian Splatting) SLAM, includinig image sensor, event camera, and LiDAR, etc.
+This repository contains a curated list of resources addressing the 3DGS (3D Gaussian Splatting) SLAM, including image sensor, event camera, and LiDAR, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM/issues/new)**. 
 
@@ -73,7 +73,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[GS4: Generalizable Sparse Splatting Semantic SLAM](https://arxiv.org/pdf/2506.06517)|---|[website](https://mingqij.github.io/projects/gs4/)|
 |2025|`International Conference on Autonomous Agents and Multiagent Systems`|[OGS-SLAM: Hybrid ORB-Gaussian Splatting SLAM](https://dl.acm.org/doi/abs/10.5555/3709347.3743762)|[![Github stars](https://img.shields.io/github/stars/realXiaohan/OGS-SLAM.svg)](https://github.com/realXiaohan/OGS-SLAM)|---|
 |2025|`arXiv`|[Globally Consistent RGB-D SLAM with 2D Gaussian Splatting](https://arxiv.org/pdf/2506.00970)|[![Github stars](https://img.shields.io/github/stars/PRBonn/2DGS-SLAM.svg)](https://github.com/PRBonn/2DGS-SLAM)|MASt3R for Loop Closure|
-|2025|`arXiv`|[VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians](https://arxiv.org/pdf/2506.02741)|---|[website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)|
+|2025|`arXiv`|[VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians](https://arxiv.org/pdf/2506.02741)|[![Github stars](https://img.shields.io/github/stars/MachinePerceptionLab/VTGaussian-SLAM.svg)](https://github.com/MachinePerceptionLab/VTGaussian-SLAM)|[website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)|
 |2025|`arXiv`|[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/pdf/2505.18992)|[![Github stars](https://img.shields.io/github/stars/dtc111111/vpgs-slam.svg)](https://github.com/dtc111111/vpgs-slam)|---| 
 |2025|`arXiv`|[ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting](https://arxiv.org/pdf/2505.19420)|---|---|
 |2025|`arXiv`|[LGSBA: Local Gaussian Splatting Bundle Adjustment for Optimizing 3DGS Rendering Quality](https://www.preprints.org/frontend/manuscript/ddecffbfbb0306ab43042be32552275f/download_pub)|[![Github stars](https://img.shields.io/github/stars/wla-98/worse-pose-but-better-3DGS.svg)](https://github.com/wla-98/worse-pose-but-better-3DGS)|---| 

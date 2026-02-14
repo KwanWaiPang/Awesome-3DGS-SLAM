@@ -34,6 +34,7 @@ Feel free to share this list with others!
 |2026|`Pattern Recognition`|[RGD-SLAM: Robust Gaussian Splatting SLAM for Dynamic Environments](https://www.sciencedirect.com/science/article/pii/S0031320326000348)|[![Github stars](https://img.shields.io/github/stars/RGD-SLAM.svg)](https://github.com/00Haocheng/RGD-SLAM)|---|
 |2026|`Proceedings of the IEEE International Symposium on High Performance Computer Architecture`|[Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)|---|[website](https://stonesix16.github.io/splatonic/)|
 |2025|`arXiv`|[RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization](https://arxiv.org/pdf/2601.00705)|---|---|
+|2025|`RAL`|[MANG-SLAM: Multi-Agent Neural Submap and Gaussian Representation for Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11297803/)|---|NeRF+3DGS+多机融合建图|
 |2025|`RAL`|[DQO-MAP: Real-Time Object-Level SLAM With Dual Quadrics and Gaussians](https://ieeexplore.ieee.org/abstract/document/11266903/)|[![Github stars](https://img.shields.io/github/stars/LiHaoy-ux/DQO-MAP.svg)](https://github.com/LiHaoy-ux/DQO-MAP)|---|
 |2025|`arXiv`|[ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting](https://arxiv.org/pdf/2502.20386)|---|[website](https://atlasnav.github.io/)|
 |2025|`arXiv`|[D2GSLAM: 4D Dynamic Gaussian Splatting SLAM](https://arxiv.org/pdf/2512.09411)|---|---|

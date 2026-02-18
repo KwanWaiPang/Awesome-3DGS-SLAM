@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[LangGS-SLAM: Real-Time Language-Feature Gaussian Splatting SLAM](https://arxiv.org/pdf/2602.06991)|---|---|
 |2026|`arXiv`|[PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM](https://arxiv.org/pdf/2601.11617)|---|混合Neural（MLP）-Gaussian representation，pose优化采用GICP+ORB重投影误差融合|
 |2026|`arXiv`|[PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction](https://arxiv.org/pdf/2601.22046)|---|[website](https://city-super.github.io/PLANING/)<br>Mesh+3DGS混合表征:用Mesh构建稳定几何骨架，用3DGS填充视觉细节;前端采用MASt3R等前馈模型预测pointmap和相机姿态|
 |2026|`Neurocomputing`|[2D Gaussian Primitive SLAM: Real-Time Dense SLAM with 2D Gaussian Primitives](https://www.sciencedirect.com/science/article/pii/S0925231226001190)|---|---|

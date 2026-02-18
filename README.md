@@ -142,6 +142,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](https://arxiv.org/pdf/2511.16091)|---|首个4D Radar-视觉融合的3DGS-SLAM框架，实现千米级户外稳健建图;以3D高斯作为可微空间表示，融合原始雷达点云的多普勒信息与几何增强点云，引导同步图像中的动态目标掩码生成，减少渲染伪影并提升定位精度；同时利用非同步图像帧全局优化3D高斯表示，增强纹理一致性与新视角合成保真度；通过全局八叉树结构结合目标高斯基元管理策略，抑制噪声并降低大规模环境下的内存消耗，实现了稳健的户外建图与大规模场景重建。|
 |2025|`IROS`|[GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction](https://arxiv.org/pdf/2503.10170?)|[![Github stars](https://img.shields.io/github/stars/hku-mars/GS-SDF.svg)](https://github.com/hku-mars/GS-SDF)|[website](https://jianhengliu.github.io/Projects/GS-SDF/)|
 |2025|`arXiv`|[LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering](https://arxiv.org/pdf/2510.22669)|---|---|
 |2025|`arXiv`|[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](https://arxiv.org/pdf/2510.26358)|[![Github stars](https://img.shields.io/github/stars/AIRLab-POLIMI/agri-gs-slam.svg)](https://github.com/AIRLab-POLIMI/agri-gs-slam)|---|
